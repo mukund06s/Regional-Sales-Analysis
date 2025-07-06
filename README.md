@@ -54,6 +54,8 @@ Key transformations performed:
 
 ## Visualizations
 ![image](https://github.com/user-attachments/assets/a55aab22-5186-40aa-adae-1889780829a2)
+![image](https://github.com/user-attachments/assets/cb17fb68-0a7d-4bf3-a431-1e60f4a8701c)
+![image](https://github.com/user-attachments/assets/2f1608ea-3930-4481-87c5-33dd88800d34)
 
 **1. Executive Summary**
 - Key performance indicators
@@ -110,7 +112,7 @@ USA-Regional-Sales-Analysis/
 
 1. Clone the repository:
    ```
-   git clone [repository-url]
+   git clone [https://github.com/mukund06s]
    ```
 2. Open `Regional_Sales_Dashboard.pbix` in Power BI Desktop
 3. Explore the interactive visuals and filters
